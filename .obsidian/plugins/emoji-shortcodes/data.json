@@ -1,0 +1,14 @@
+{
+  "immediateReplace": true,
+  "suggester": true,
+  "historyPriority": true,
+  "historyLimit": 100,
+  "history": [
+    ":fire:",
+    ":white_check_mark:",
+    ":skull_and_crossbones:",
+    ":infinity:",
+    ":smile:",
+    ":blueberries:"
+  ]
+}

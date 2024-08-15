@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "ba9c81711c2ee528",
+    "type": "split",
+    "children": [
+      {
+        "id": "8da7a0d97a36f589",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3eb35cc24ade08d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal Important Moments.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5bb86c576bf83395",
+    "type": "split",
+    "children": [
+      {
+        "id": "40a3703cdf8a8442",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1bd6d19cdb2b39f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "92d4966ba55b68a1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#revisit",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "aa81f15e31b86b2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "515613acadef35a5",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "7943b01c3d2219c6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c219a29117404036",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 247.5
+  },
+  "right": {
+    "id": "e19ec991d537211a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fb6d77586d84897",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc053a61f2ef5407",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Journal Important Moments.md"
+              }
+            }
+          },
+          {
+            "id": "430dfa8fc821ab2d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Journal Important Moments.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1dda03eea0eee7e5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Journal Important Moments.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dd4d660a7c235f8c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "eb2b0844313cb56f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4cf2c527cfd1957",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Journal Important Moments.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 258.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "quickadd:QuickAdd": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "audio-recorder:Start/stop recording": false,
+      "daily-notes:Open today's daily note": false,
+      "graph:Open graph view": false,
+      "callout-manager:Insert Callout": false
+    }
+  },
+  "active": "3eb35cc24ade08d6",
+  "lastOpenFiles": [
+    "Other/Views/Decision Journal.md",
+    "Other/Views/Revisit Incomplete Thoughts.md",
+    "Journal Important Moments.md",
+    "Other/Tools/Template Thoughts.md",
+    "Other/Tools/Template Moments.md",
+    "Other/Views",
+    "Other/Tools",
+    "Moments/ 2024-08-15 Thu – asdf.md",
+    "Moments/ 2024-08-15 Thu – .md",
+    "Moments/2024-08-15 Thu – yi.md",
+    "Moments/ 2024-08-15 Thu – adsf.md",
+    "Moments/ 2024-08-15 Thu – lkj.md",
+    "Moments/ 2024-08-15 Thu – poiu.md",
+    "Moments/ 2024-08-15 Thu – test.md",
+    "Moments/ 2024-08-15 Thu – Testing out QuickAdd.md",
+    "Other",
+    "Moments"
+  ]
+}

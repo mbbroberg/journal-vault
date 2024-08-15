@@ -1,0 +1,42 @@
+{
+  "callouts": {
+    "custom": [
+      "iconref-a",
+      "icon-ref-b",
+      "context",
+      "bikee",
+      "watch",
+      "sprout"
+    ],
+    "settings": {
+      "failure": [
+        {
+          "changes": {
+            "icon": "lucide-flame"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "227, 107, 167"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "208,66,85"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}

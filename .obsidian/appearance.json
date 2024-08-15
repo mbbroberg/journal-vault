@@ -1,0 +1,20 @@
+{
+  "accentColor": "",
+  "cssTheme": "Minimal",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "supercharged-links-gen",
+    "cleaner-icons",
+    "cornell-banner-nick1",
+    "cornell-banner-v2",
+    "cornell-main-nick1",
+    "cornell-main-v2",
+    "custom-solarized",
+    "MCL Gallery Cards",
+    "MCL Multi Column",
+    "MCL Wide Views",
+    "nick-milo-callouts",
+    "view"
+  ],
+  "interfaceFontFamily": "Inter"
+}
